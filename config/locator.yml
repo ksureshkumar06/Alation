@@ -1,0 +1,4 @@
+locator:
+ department_dropdown : ".nav-search-dropdown.searchSelect"
+ search_textbox : "Data Catalog"
+ search_button : "div.nav-search-submit.nav-sprite"
